@@ -1,0 +1,19 @@
+.title_container{
+    width: auto;
+    height: 50px;
+    position: absolute;
+    padding: 5px;
+    z-index: 4;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4);
+    word-wrap: break-word;
+    border-radius: 10px;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #2da0ff 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hide-title{
+    display: none;
+}

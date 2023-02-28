@@ -1,0 +1,28 @@
+.container-icon{
+    position: absolute;
+    font-size: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #33333300;
+
+
+}
+
+.hide-icon{
+    display: none;
+}
+
+.text-icon{
+    font-size: 15px;
+    border: 2px solid black;
+    color: #4d4747;
+    background: #33333300;
+    padding: 4px;
+    border-radius: 10px;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    width: 5vw;
+    text-align: center;
+}
+
